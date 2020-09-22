@@ -1,0 +1,12 @@
+napster.ocx (beta) (9:53 PM 7/19/00)
+------------------------------------
+this ocx is still under work, i just
+wanted to test out the functions and
+subs i have already. this does not
+work as a winsock connection to nap.
+but it works as a aol prog would w/
+aol. so enjoy, updates soon :)
+
+email: amaf@email.com
+aim: ar naf
+url: www.envy.nu/amaf
